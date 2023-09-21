@@ -1,7 +1,7 @@
-### Hi there 👋
+
 ![MasterHead](https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg)
-<h1 align="center">Hi 👋, I'm Rohan Mehta</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Sabari Arun</h1>
+<h3 align="center">A passionate Full Stack Developer</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn2.vectorstock.com/i/thumb-large/53/36/web-developer-avatar-vector-25535336.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanmehta45&label=Profile%20views&color=0e75b6&style=flat" alt="rohanmehta45" /> </p>
@@ -10,12 +10,12 @@
 
 - 💬 Ask me about **WEB DEVELOPMENT**
 
-- 📫 How to reach me **programify45@gmail.com**
+- 📫 How to reach me **sabariganesh7373@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/rohan-mehta-b924b924b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan-mehta-41956a222" height="30" width="40" /></a>
-<a href="https://instagram.com/rohan_mehta045" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohan_mehta045" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sabariganesh7373/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabariganesh7373" height="30" width="40" /></a>
+<a href="https://instagram.com/sab_pettarap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sabari-Instagaram" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
